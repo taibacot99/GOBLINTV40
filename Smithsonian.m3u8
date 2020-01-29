@@ -1,0 +1,6 @@
+#EXTM3U 
+#EXT-X-VERSION:3
+
+
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=7680000
+https://etslive-2-vidio-com.akamaized.net/exp=1580425697~acl=/hls-p/ingest_geo_6550_*/*~hmac=81a7cc7103ecf0775f49d6a96831431479758cbf56c5293d8f4696f70d09569b/hls-p/ingest_geo_6550_360p/index.m3u8
